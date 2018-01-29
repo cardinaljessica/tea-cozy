@@ -68,7 +68,7 @@ a {
 
 #mission {
   height: 700px;
-  background-image: url("/resources/images/mission-background.jpg");
+  background-image: url("/Users/jessica/Projects/tea_cozy/resources/mission-background.jpg");
   padding-top: 70px;
 }
 
@@ -102,7 +102,7 @@ a {
 /* Locations Section */
 
 #locations {
-  background-image: url("/resources/images/locations-background.jpg");
+  background-image: url("/Users/jessica/Projects/tea_cozy/resources/images/locations-background.jpg");
   height: 500px;
   padding-top: 70px;
 }
